@@ -1,0 +1,5 @@
+Smith,Alex,23130,smith.alex@example.edu,01/20/2026
+Johnson,Maya,23130,johnson.maya@example.edu,01/20/2026
+Brown,Ethan,23130,brown.ethan@example.edu,01/20/2026
+Garcia,Sofia,23130,garcia.sofia@example.edu,01/20/2026
+Williams,Noah,23130,williams.noah@example.edu,01/20/2026
